@@ -3,3 +3,4 @@
 
 - Ichinoki
 - Takashi Sasai (sasai)
+- Okamura Takeshi
