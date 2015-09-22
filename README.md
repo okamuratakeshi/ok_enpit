@@ -1,6 +1,6 @@
 
 ### TEAM KAHOKU HANTE
 
-Ichinoki
-Takashi Sasai (sasai)
-Okamura Takeshi
+- Ichinoki
+- Takashi Sasai (sasai)
+- Okamura Takeshi
