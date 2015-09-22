@@ -1,3 +1,5 @@
-### TEAM KAHOKU HANTEN
+### TEAM KAHOKU HANTE
 
 ichinoki
+Takashi Sasai
+
