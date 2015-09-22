@@ -1,5 +1,5 @@
+
 ### TEAM KAHOKU HANTE
 
 ichinoki
-Takashi Sasai
-
+Takashi Sasai (sasai)
